@@ -5,7 +5,7 @@ output:
 ---
 
 
-![](D:/data/projects/MSYT/msyt_v4.0/Documentation/process_flow/process.png)
+![](process.png)
 
 Figure 1.  MSYT Process Flow
 
