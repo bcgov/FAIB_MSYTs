@@ -10,7 +10,7 @@ description: |
 ---
 
 
-![](Images/process.png)
+![](images/process.png)
 
 Figure 1.  MSYT Process Flow
 
